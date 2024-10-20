@@ -14,4 +14,6 @@ class L2022211879_7_Test {
         pairs = List.of(List.of(0, 1), List.of(1, 2));
         assertEquals("abc", solution7.smallestStringWithSwaps("cba", pairs));
     }
+    //可以新增更多的测试函数，以增强测试的可靠性。
+    //可以测试更多的特殊情况，如边界值等，单靠一个测试函数不符合测试用例设计的原则
 }
